@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><persistence>
+<jsp-scripting/>
+<beanData>
+        <bean id="/GYM_OTOMASYON/WebContent/UyeTarife.jsp" type="java.util.ArrayList">
+            <collectionProperty name="tarifeBeanList">
+                <contains type="java.lang.Object"/>
+            </collectionProperty>
+        </bean>
+    <bean id="/GYM_OTOMASYON/WebContent/UyeDuzenle.jsp" type="java.util.List&lt;com.Beans.TarifelerBean&gt;">
+            <collectionProperty name="list_tarifeler">
+                <contains type="com.Beans.TarifelerBean"/>
+            </collectionProperty>
+        </bean>
+    </beanData>
+</persistence>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.jst.j2ee.commonarchivecore.looseconfig:LooseArchive xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.jst.j2ee.commonarchivecore.looseconfig="commonarchive.looseconfig.xmi" uri="C:\Users\Mehmet\Desktop\Yeni klasör\workspace\GYM_OTOMASYON_EAR" binariesPath="C:\Users\Mehmet\Desktop\Yeni klasör\workspace\GYM_OTOMASYON_EAR" resourcesPath="C:\Users\Mehmet\Desktop\Yeni klasör\workspace\GYM_OTOMASYON_EAR" archiveType="EAR">
+  <looseChildren uri="GYM_OTOMASYON.war" binariesPath="C:\Users\Mehmet\Desktop\Yeni klasör\workspace\GYM_OTOMASYON\WebContent" resourcesPath="C:\Users\Mehmet\Desktop\Yeni klasör\workspace\GYM_OTOMASYON\WebContent" archiveType="WAR"/>
+</org.eclipse.jst.j2ee.commonarchivecore.looseconfig:LooseArchive>

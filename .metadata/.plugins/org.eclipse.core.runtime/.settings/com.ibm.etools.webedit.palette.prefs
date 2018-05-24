@@ -1,0 +1,2 @@
+com.ibm.etools.webedit.palette.overlay=<?xml version\="1.0" encoding\="UTF-8"?><paletteOverlay><category id\="WebEditPlugin.JSP" visible\="false"/><category id\="jsf.html" visible\="true"/><category id\="jsf.html.standard" visible\="true"/><category id\="com.ibm.etools.webtools.sdo" visible\="false"/><category id\="com.ibm.etools.webpage.template.editor.palette.pagetemplate" visible\="false"/><category id\="WebEditPlugin.FORM" visible\="false"/></paletteOverlay>
+eclipse.preferences.version=1

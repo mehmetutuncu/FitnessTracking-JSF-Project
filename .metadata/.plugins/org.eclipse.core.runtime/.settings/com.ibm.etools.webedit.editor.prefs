@@ -1,0 +1,12 @@
+Preferences.fonts.fixedFontName=Courier New
+Preferences.fonts.proportionalFontName=Times New Roman
+Preferences.pane.paneActive=SOURCE
+Preferences.pane.paneEditRatio=383,383,232
+Preferences.pane.paneVisible1=DESIGN
+Preferences.pane.paneVisible2=SOURCE
+eclipse.preferences.version=1
+lastEditingMode=true
+org.eclipse.wst.web.ui.webDevPerspectivecom.ibm.etools.webedit.editor.toolbar.edit=true
+org.eclipse.wst.web.ui.webDevPerspectivecom.ibm.etools.webedit.editor.toolbar.format=true
+org.eclipse.wst.web.ui.webDevPerspectivecom.ibm.etools.webedit.editor.toolbar.paragraph=true
+webperspective.actionset=true

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<faces-config
+    xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-facesconfig_1_2.xsd"
+    version="1.2">
+   <application>
+		<state-manager>com.ibm.faces.application.DevelopmentStateManager</state-manager>
+		<property-resolver>com.ibm.faces.databind.SelectItemsPropResolver</property-resolver>
+		<variable-resolver>com.ibm.faces.databind.SelectItemsVarResolver</variable-resolver>
+	</application>
+	<factory>
+		<faces-context-factory>com.ibm.faces.context.AjaxFacesContextFactory</faces-context-factory>
+		<render-kit-factory>com.ibm.faces.renderkit.AjaxRenderKitFactory</render-kit-factory>
+	</factory>
+	<managed-bean>
+		<managed-bean-name>pc_Anasayfa</managed-bean-name>
+		<managed-bean-class>pagecode.Anasayfa</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>pc_KullaniciEkle</managed-bean-name>
+		<managed-bean-class>pagecode.KullaniciEkle</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>pc_TarifeEkle</managed-bean-name>
+		<managed-bean-class>pagecode.TarifeEkle</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>pc_KartOkut</managed-bean-name>
+		<managed-bean-class>pagecode.KartOkut</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>pc_KimlerAktif</managed-bean-name>
+		<managed-bean-class>pagecode.KimlerAktif</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>pc_Uyeler</managed-bean-name>
+		<managed-bean-class>pagecode.Uyeler</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>pc_UyeDuzenle</managed-bean-name>
+		<managed-bean-class>pagecode.UyeDuzenle</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>pc_KartKapat</managed-bean-name>
+		<managed-bean-class>pagecode.KartKapat</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>pc_UyeTarife</managed-bean-name>
+		<managed-bean-class>pagecode.UyeTarife</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+	</managed-bean>
+    
+</faces-config>

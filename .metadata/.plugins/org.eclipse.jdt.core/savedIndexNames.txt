@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Mehmet\Desktop\Yeni klasör\workspace\.metadata\.plugins\org.eclipse.jdt.core
+3882504574.index
+11242283.index
+2250080222.index
